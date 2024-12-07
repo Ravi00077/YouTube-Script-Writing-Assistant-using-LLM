@@ -1,4 +1,4 @@
-##YouTube Script Writing Assistant
+#YouTube Script Writing Assistant
 
 This project leverages the power of Large Language Models (LLMs) to assist YouTube creators in generating engaging and high-quality video scripts. The system aims to:
 
