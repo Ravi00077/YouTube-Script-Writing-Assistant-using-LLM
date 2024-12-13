@@ -12,7 +12,7 @@ This project is your secret weapon! It uses the power of artificial intelligence
 * **Streamlines Scriptwriting:** Spend less time writing and more time creating. This tool helps you structure your script, improve clarity, and inject humor, making your content impactful.
 * **Collaboration Made Easy:** It's not just about AI doing the work – it's about working together! Provide input, iterate on drafts, and refine the script with the AI's assistance.
 
-### Features You'll Love:
+### Features:
 
 * **Style & Tone Matching:**  No more feeling like a robot is writing your script! This tool captures your signature style for a truly personal touch.
 * **Audience-Driven Suggestions:**  The AI gets to know your viewers, tailoring your script for maximum engagement.
