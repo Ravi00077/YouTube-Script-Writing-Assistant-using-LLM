@@ -11,6 +11,7 @@ This project is your secret weapon! It uses the power of artificial intelligence
 * **Busts Writer's Block:** Feeling creatively drained? Let AI spark your imagination! Get helpful suggestions and overcome writer's block in a flash.
 * **Streamlines Scriptwriting:** Spend less time writing and more time creating. This tool helps you structure your script, improve clarity, and inject humor, making your content impactful.
 * **Collaboration Made Easy:** It's not just about AI doing the work – it's about working together! Provide input, iterate on drafts, and refine the script with the AI's assistance.
+![Screenshot 2024-12-13 191955](https://github.com/user-attachments/assets/f07d44d7-3416-46be-a38b-821195a387e9)
 
 ### Features:
 
